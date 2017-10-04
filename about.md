@@ -14,6 +14,14 @@ Visit us at our next meetup where you will meet other professionals and enthusia
 * Topic 2
 * Topic 3
 
+### Contact Us
+
+*meetup website: https://www.meetup.com/Hawaii-Machine-Learning/* 
+*email:* hawaiimachinelearning@gmail.com
+
+
+
+
 ### Support Us
 Hawaii Machine Learning is a small group of enthusiasts who want to build a community where other like-minded people can meet and grow together. With that said, we would appreciate any support to help continue our efforts.
 

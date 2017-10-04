@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-**Who:** Visit us at our next (meetup)[https://www.meetup.com/Hawaii-Machine-Learning/] where you will meet other professionals and enthusiasts interested in discussing all things on machine learning and AI.  
+Visit us at our next [meetup](https://www.meetup.com/Hawaii-Machine-Learning/) where you will meet other professionals and enthusiasts interested in discussing all things on machine learning and AI.  
 
 We meet every first and third Monday at 6:00 PM to 7:00 PM at the Manoa Innovation Center's Ideation Room (Suite 160).  
 

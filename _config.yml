@@ -4,7 +4,7 @@ email:       hawaiimachinelearning@gmail.com
 author:      Us
 description: "Hawaii Machine Learning Meetup"
 baseurl:     ""
-url:         "https://www.meetup.com/Hawaii-Machine-Learning/"
+url:         "https://hawaiimachinelearning.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md

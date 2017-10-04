@@ -2,7 +2,7 @@
 layout: page
 title: Upcoming Events
 permalink: /upcoming/
-tags: upcoming, events
+tags: events
 ---
 
 ### An Introduction to Machine Learning in Python 10/16/2017

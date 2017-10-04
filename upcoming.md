@@ -22,7 +22,7 @@ Here is a brief outline of what we will cover
 We will have example code in Python.  You can download the code here. If you want to follow along, please bring your laptop with Python installed.  Here are some resources to help. 
 
 ### An Introduction to Machine Learning in R (11/6/2017)
-This is the complementary presentation to *An Introduction to Machine Learning in Python*.  We will be covering the same material as the Python presentation, namely
+This is the complementary presentation to **An Introduction to Machine Learning in Python**.  We will be covering the same material as the Python presentation, namely
 
 1. collect data
 2. split data into a training, validation, and test set
@@ -34,7 +34,7 @@ This is the complementary presentation to *An Introduction to Machine Learning i
 8. tune hyperparameters
 9. make predictions on the test set
 
-We will have example code in R.  You can download the code here. If you want to follow along, please bring your laptop with R and the [data.table](https://github.com/Rdatatable/data.table/wiki) package already installed.  Here are some resources to help. 
+We will have example code in R.  You can download the code here. If you want to follow along, please bring your laptop with R and the [data.table](https://github.com/Rdatatable/data.table/wiki) package already installed.  Here are some resources to help:
 
-[Installing R and R Studio](https://www.youtube.com/watch?v=d-u_7vdag-0)
-[Installing R Packages](https://www.youtube.com/watch?v=3RWb5U3X-T8)
+* [Installing R and R Studio](https://www.youtube.com/watch?v=d-u_7vdag-0)
+* [Installing R Packages](https://www.youtube.com/watch?v=3RWb5U3X-T8)

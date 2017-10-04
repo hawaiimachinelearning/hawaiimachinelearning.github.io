@@ -1,87 +1,20 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+## [Hawaii Machine Learning Meetup]
+Visit us at our next meetup where you will meet other professionals and enthusiasts interested in discussing all things on machine learning and AI.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+### Topics of discussion
 
-Thanks to the following:
+* Topic 1
+* Topic 2
+* Topic 3
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+### Support Us
+Hawaii Machine Learning is a small group of enthusiasts who want to build a community where other like-minded people can meet and grow together. With that said, we would appreciate any support to help continue our efforts.
 
-List of contributors:
-
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+[Hawaii Machine Learning Meetup]: https://www.meetup.com/Hawaii-Machine-Learning/

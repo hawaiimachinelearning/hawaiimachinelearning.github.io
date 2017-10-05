@@ -9,7 +9,7 @@ tags: resources
 
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) by Ian Goodfellow and Yoshua Bengio
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) by Trevor Hastie, and Robert Tibshirani
-* [The Elements of Statistical Learning] by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 
 ### Bookmarks
 

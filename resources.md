@@ -11,15 +11,11 @@ tags: resources
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) by Trevor Hastie, and Robert Tibshirani
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 
-### Bookmarks
-
-* [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) by The Asimov Institute provides a brief summaries of many different neural network architectures. 
-* [Machine Learning Top 10 Articles For the Past Month (v.August 2017)](https://medium.mybridge.co/machine-learning-top-10-articles-v-august-2017-9f4b648a38be) is a collection of good reads for those interested in machine learning.
-
-### Online Courses
+### Online Courses (Free)
 There are many good online courses for machine learning. This is a short list of a few of the courses that we recommend.  We plan to form study groups for members enrolled or auditing these courses.  All of the following courses can be taken for free unless noted otherwise.
 
 #### Coursera
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) - Introduction
 * [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) - Intermediate
 * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) - Intermediate
 
@@ -39,3 +35,8 @@ There are many good online courses for machine learning. This is a short list of
 #### Other
 * [Practical Deep Learning For Coders](http://course.fast.ai/) - Introduction 
 * [Cutting Edge Deep Learning for Coders](http://course.fast.ai/part2.html) - Intermediate 
+
+### Bookmarks
+
+* [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) by The Asimov Institute provides a brief summaries of many different neural network architectures. 
+* [Machine Learning Top 10 Articles For the Past Month (v.August 2017)](https://medium.mybridge.co/machine-learning-top-10-articles-v-august-2017-9f4b648a38be) is a collection of good reads for those interested in machine learning.

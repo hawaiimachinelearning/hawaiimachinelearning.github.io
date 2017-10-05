@@ -5,9 +5,9 @@ permalink: /resources/
 tags: resources
 ---
 
-### Textbooks
+### Textbooks (Free)
 
-* [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book) by Ian Goodfellow and Yoshua Bengio
+* [Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf) by Ian Goodfellow and Yoshua Bengio
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) by Trevor Hastie, and Robert Tibshirani
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
 
@@ -17,7 +17,7 @@ tags: resources
 * [Machine Learning Top 10 Articles For the Past Month (v.August 2017)](https://medium.mybridge.co/machine-learning-top-10-articles-v-august-2017-9f4b648a38be) is a collection of good reads for those interested in machine learning.
 
 ### Online Courses
-There are many good online courses for machine learning. This is a short list of a few of the courses that we recommend.  We plan to form study groups for members enrolled or auditing these courses.  
+There are many good online courses for machine learning. This is a short list of a few of the courses that we recommend.  We plan to form study groups for members enrolled or auditing these courses.  All of the following courses can be taken for free unless noted otherwise.
 
 #### Coursera
 * [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) - Intermediate
@@ -34,7 +34,7 @@ There are many good online courses for machine learning. This is a short list of
 
 #### Udacity
 * [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) - Advanced 
-* [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) - Advanced 
+* [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) - Advanced (*not free*)
 
 #### Other
 * [Practical Deep Learning For Coders](http://course.fast.ai/) - Introduction 

@@ -5,38 +5,17 @@ permalink: /resources/
 tags: resources
 ---
 
-### Textbooks (Free)
-
-* [Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf) by Ian Goodfellow and Yoshua Bengio
-* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) by Trevor Hastie, and Robert Tibshirani
-* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
-
-### Online Courses (Free)
-There are many good online courses for machine learning. This is a short list of a few of the courses that we recommend.  We plan to form study groups for members enrolled or auditing these courses.  All of the following courses can be taken for free unless noted otherwise.
-
-#### Coursera
-* [Machine Learning](https://www.coursera.org/learn/machine-learning) - Introduction
-* [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) - Intermediate
-* [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) - Intermediate
-
-#### YouTube
-* [Deep learning at Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) - Introduction
-* [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Intermediate
-* [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - Intermediate
-
-#### Stanford Online
-* [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) - Introduction
-* [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about) - Advanced
-
-#### Udacity
-* [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) - Advanced 
-* [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) - Advanced (*not free*)
-
-#### Other
-* [Practical Deep Learning For Coders](http://course.fast.ai/) - Introduction 
-* [Cutting Edge Deep Learning for Coders](http://course.fast.ai/part2.html) - Intermediate 
-
 ### Bookmarks
-
+* [The R Graph Gallery](http://www.r-graph-gallery.com/) A collection of graphics created in R.  
+* [The Python Graph Gallery](https://python-graph-gallery.com/) A collection of graphics created in Python.  
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) by The Asimov Institute provides a brief summaries of many different neural network architectures. 
 * [Machine Learning Top 10 Articles For the Past Month (v.August 2017)](https://medium.mybridge.co/machine-learning-top-10-articles-v-august-2017-9f4b648a38be) is a collection of good reads for those interested in machine learning.
+* [Machine Learning, Deep Learning resources compilation](https://github.com/Wrosinski/MachineLearning_ResourcesCompilation) Compilation of resources found around the web connected with Machine Learning, Deep Learning & Data Science in general.
+
+### Textbooks
+* [Awesome Machine Learning Books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) A list of free, open source books on machine learning, statistics, data-mining, etc.
+* [10 Free Must-Read Books for Machine Learning and Data Science](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html) A list of books relevant to machine learning; topics range from probability and statistics to deep learning.
+
+### Online Courses 
+* [Machine Learning Courses Online](http://fastml.com/machine-learning-courses-online/) A curated list of online machine learning courses.
+* [Awesome Machine Learning Courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md) A list of free or paid online courses on machine learning, statistics, data-mining, etc.

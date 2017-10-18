@@ -15,9 +15,10 @@ This meetup we were grateful to have Jeff Eliasen cover the basic steps in Machi
 6. **Predict**: compute new results from the model
 7. **Display**: show a range of predictions from the model
 
-Click on the figure below for more information.
 <p align="center">
 	<a href="https://github.com/seawolf42/intro-to-machine-learning/blob/master/Intro%20to%20Machine%20Learning%20in%20Python.ipynb">
 		<img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/Linear%20Regression.png" alt="Linear Regression Figure">
 	</a>
+	<br>
+	<i>Click on the figure above for more information.</i>
 </p>

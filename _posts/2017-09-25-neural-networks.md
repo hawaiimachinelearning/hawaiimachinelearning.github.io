@@ -9,10 +9,11 @@ categories: event
 
 In this meetup we discussed the history and various applications of neural networks.  
 
-<p align="center" style="text-decoration:none;">
+<p align="center">
 	<a href="https://www.slideshare.net/MichaelMotoki/applications-of-neural-networks">
 		<img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/bananawave.jpg" alt="Neural Networks Slides">
+		<br>
+		<i>Click on the image above to view the slides for this meetup.</i>
 	</a>
-	<br>
-	<i>Click on the image above to view the slides for this meetup.</i>
+
 </p>

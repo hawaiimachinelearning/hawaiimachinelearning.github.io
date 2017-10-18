@@ -2,7 +2,7 @@
 layout:     post
 title:      Introduction to Machine Learning in Python
 date:       2017-10-16
-summary:    <p align="center" style="text-decoration:none;"><img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/Linear%20Regression-small.jpg" alt="Linear Regression Figure"></p> This meetup covered the basic steps in Machine Learning using the Python programming language.
+summary:    This meetup covered the basic steps in Machine Learning using the Python programming language. <img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/Linear%20Regression-small.png" alt="Linear Regression Figure">
 categories: event
 ---
 

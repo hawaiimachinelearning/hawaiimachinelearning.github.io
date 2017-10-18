@@ -16,8 +16,8 @@ This meetup we were grateful to have Jeff Eliasen cover the basic steps in Machi
 7. **Display**: show a range of predictions from the model
 
 <p align="center" style="text-decoration:none;">
-	<i>Click on the figure below for more information.</i>
 	<a href="https://github.com/seawolf42/intro-to-machine-learning/blob/master/Intro%20to%20Machine%20Learning%20in%20Python.ipynb">
+		<i>Click on the figure below for more information.</i>
 		<img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/Linear%20Regression.png" alt="Linear Regression Figure">
 	</a>
 </p>

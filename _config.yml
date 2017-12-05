@@ -1,14 +1,16 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Hawaii Machine Learning Meetup
+email:       hawaiimachinelearning@gmail.com
+author:      Us
+description: "Hawaii Machine Learning Meetup"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://hawaiimachinelearning.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
+ - upcoming.md  
+ - resources.md 
  - about.md
- - contact.html
+# - contact.html
 
 # Google services
 google_verification:

@@ -5,10 +5,10 @@ permalink: /upcoming/
 tags: events
 ---
 
-### How to Simulate a Self-Driving Car Part 2 (12/04/2017)
+### ExploRatory Data Analysis: Enter Tidyverse (12/18/2017)
 
-We will continue our discussion on training a neural network to drive a car.  This meetup will focus on the theory under the hood: 
+So you just downloaded your data. In the next 5 minutes, how can you extract as much information as possible from it?
 
-1. behavioral cloning (supervised learning)
-2. convolutional neural networks 
-3. tricks to improve performance 
+Tidyverse is a system for data exploration developed by Dr.Hadley Wickham himself. It's a set of precise vocabulary that rids of all the non-sense struggle between your most brilliant and insightful questions about the data, and their answers.
+
+We will take a quick look at the general idea of this Tidyverse, and get some hands-on experience playing with it on our favorite datasets.

@@ -2,7 +2,7 @@
 layout:     post
 title:      How to Simulate a Self Driving Car Part 2
 date:       2017-12-04
-summary:    This meetup we trained a neural network to drive a car.
+summary:    This meetup we continued our discussion on training a neural network to drive a car.
 categories: event
 ---
 

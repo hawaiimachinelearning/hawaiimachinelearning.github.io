@@ -23,4 +23,4 @@ Xun is a Ph.D. student currently working in University of Hawaii Cancer Center a
 	</a>
 </p>
 
- Note: If you would like to run the code you need download the data for the competition and install the [IRkernel package](https://github.com/IRkernel/IRkernel). 
+Note: You can run the code above in a [Kaggle kernel](https://www.kaggle.com/c/zillow-prize-1/kernels).  If you would like to run the code locally, you need download the data for the competition and install the [IRkernel package](https://github.com/IRkernel/IRkernel). 

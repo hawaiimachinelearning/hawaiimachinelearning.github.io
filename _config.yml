@@ -9,8 +9,8 @@ date_format: "%b %-d, %Y"
 header_pages:
  - upcoming.md
  - studygroup.md
- - resources.md 
  - about.md
+# - resources.md 
 # - contact.html
 
 # Google services

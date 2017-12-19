@@ -16,7 +16,7 @@ We concluded with a mini competition that challenged members to train a neural n
 <p align="center" style="text-decoration:none;">
 	<a href="https://docs.google.com/presentation/d/1MxCy4TDtdkeG0Mgfy66GwCSiFMq1hE1zj9oHWgKg-do/edit#slide=id.p">
 		<i>Click on the figure below to view the slides for this meetup.</i>
-		<img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/how_to_teach_a%20robot_to_drive.jpg">
+		<img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/how_to_teach_a_robot_to_drive.jpg">
 	</a>
 </p>
 

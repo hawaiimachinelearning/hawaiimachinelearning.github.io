@@ -5,16 +5,24 @@ permalink: /upcoming/
 tags: events
 ---
 
-### BIM & Reality Capture in Construction (1/8/2018)
-
-Please note this week's meetup will not be meeting at our usual location in the MIC, instead we will be meeting at Hawaiian Dredging's office at 605 Kapiolani Blvd. Parking (and validation) is available in the 801 B (Phase II) garage.
+### Introduction to Competitive Machine Learning (1/29/2018)
 
 
-**Summary**:
+Summary:
+This meetup will be the first in a series of presentations on competitive machine learning.
 
-Building Information Modeling (BIM) and Reality Capture (Laser Scanning, Photogrammetry, Augmented Reality) have become very prevalent in the Architecture, Engineering and Construction Industry. In this presentation, we’ll discuss what these technologies are, how they are being used, and how they may be able to benefit from AI & Machine learning.
+During this meetup, we will discuss:
 
+* The fundamentals of competitive machine learning.
+* [Kaggle](https://www.kaggle.com/), which hosts popular machine learning competitions.
+* The recent ["Porto Seguro’s Safe Driver"](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) competition.
 
-**Presenter: Chris Baze**
+Follow-up meetups will cover case-studies of various competitions and discuss the techniques used by top performers.
 
-Chris has been working at Hawaiian Dredging Construction Company (HDCC) since 2009. He has served as HDCC’s BIM Manager since 2011 and been actively using and managing software and hardware from companies including Autodesk, Trimble, and Leica Geosystems. He has been in Hawaii since 2007 when he graduated from Virginia Tech with a Bachelor of Architecture degree.
+Presenter: Matt Motoki, [Thomas Yokota] (http://www.thomasyokota.com/)
+Matt is a data science consultant who enjoys competing on Kaggle in his free time.
+
+Thomas is an epidemiologist in Hawaii. His interests include machine learning, forecasting and whatever works on Kaggle.
+
+Sponsors:
+Special thanks to the [Hawaii Technology Development Corporation](https://www.htdc.org/) (HTDC) who is providing the venue for this meetup. The HTDC aims to accelerate the growth of Hawaii's technology industry by providing capital, building infrastructure and developing talent to foster innovation.

@@ -19,9 +19,12 @@ During this meetup, we will discuss:
    * [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize)
    * [ImageNet](http://www.image-net.org/)
    * [Kaggle](https://www.kaggle.com)
+<<<<<<< Updated upstream
 * How Do I Start?
    * Kaggle Walkthrough
    * Titanic Competition
+=======
+>>>>>>> Stashed changes
 * How Do I Start?
    * Kaggle Walkthrough
    * Titanic Competition
@@ -35,6 +38,6 @@ During this meetup, we will discuss:
 <p align="center" style="text-decoration:none;">
 	<a href="https://www.slideshare.net/HawaiiMachineLearnin/introduction-to-competitive-machine-learning">
 		<i>View the slides for this meetup.</i><br>
-		<img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/kaggle_pipeline.jpg">
+		<img src="https://github.com/hawaiimachinelearning/hawaiimachinelearning.github.io/raw/master/slides/kaggle_pipeline.png">
 	</a>
 </p>

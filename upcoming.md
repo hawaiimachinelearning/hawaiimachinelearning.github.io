@@ -5,24 +5,16 @@ permalink: /upcoming/
 tags: events
 ---
 
-### Introduction to Competitive Machine Learning (1/29/2018)
+### Study Machine Learning - Week 7: Kernel SVM & Naive Bayes (02/13/2018)
 
 
 Summary:
 This meetup will be the first in a series of presentations on competitive machine learning.
 
-During this meetup, we will discuss:
+This is the review session for our machine learning study group. The new material is from:
+* Section 15: Kernel SVM
+* Section 16: Naive Bayes
 
-* The fundamentals of competitive machine learning.
-* [Kaggle](https://www.kaggle.com/), which hosts popular machine learning competitions.
-* The recent ["Porto Seguro’s Safe Driver"](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) competition.
+SVMs are motivated by a very elegant mathematical theory that makes heavy use of the so-called kernel trick. With the right kernel, SVMs can essentially be used to map input features into an infinite-dimensional feature space.
 
-Follow-up meetups will cover case-studies of various competitions and discuss the techniques used by top performers.
-
-Presenter: Matt Motoki, [Thomas Yokota] (http://www.thomasyokota.com/)
-Matt is a data science consultant who enjoys competing on Kaggle in his free time.
-
-Thomas is an epidemiologist in Hawaii. His interests include machine learning, forecasting and whatever works on Kaggle.
-
-Sponsors:
-Special thanks to the [Hawaii Technology Development Corporation](https://www.htdc.org/) (HTDC) who is providing the venue for this meetup. The HTDC aims to accelerate the growth of Hawaii's technology industry by providing capital, building infrastructure and developing talent to foster innovation.
+The well-known Naive Bayes algorithm is based on a simplifying independence assumption. Despite its simplicity, it is can be used effectively in many situations.

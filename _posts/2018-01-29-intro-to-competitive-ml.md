@@ -16,9 +16,12 @@ During this meetup, we will discuss:
 * What is Competitive Machine Learning?
 * Why Compete?
 * Where Can I Compete?
+   * [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize)
+   * [ImageNet](http://www.image-net.org/)
    * [Kaggle](https://www.kaggle.com)
-   * ImageNet
-   * Kaggle
+* How Do I Start?
+   * Kaggle Walkthrough
+   * Titanic Competition
 * How Do I Start?
    * Kaggle Walkthrough
    * Titanic Competition

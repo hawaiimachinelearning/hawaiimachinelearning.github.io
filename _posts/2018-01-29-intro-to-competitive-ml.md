@@ -19,12 +19,6 @@ During this meetup, we will discuss:
    * [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize)
    * [ImageNet](http://www.image-net.org/)
    * [Kaggle](https://www.kaggle.com)
-<<<<<<< Updated upstream
-* How Do I Start?
-   * Kaggle Walkthrough
-   * Titanic Competition
-=======
->>>>>>> Stashed changes
 * How Do I Start?
    * Kaggle Walkthrough
    * Titanic Competition
@@ -34,7 +28,7 @@ During this meetup, we will discuss:
 * Matt is a data science consultant who enjoys competing on Kaggle in his free time.
 * Thomas is an epidemiologist in Hawaii. His interests include machine learning, forecasting and whatever works on Kaggle.
 
-
+Click on the image below to view the slides for this meetup.
 <p align="center" style="text-decoration:none;">
 	<a href="https://www.slideshare.net/HawaiiMachineLearnin/introduction-to-competitive-machine-learning">
 		<i>View the slides for this meetup.</i><br>

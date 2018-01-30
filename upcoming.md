@@ -8,9 +8,7 @@ tags: events
 ### Study Machine Learning - Week 7: Kernel SVM & Naive Bayes (02/13/2018)
 
 
-Summary:
-This meetup will be the first in a series of presentations on competitive machine learning.
-
+**Summary:**
 This is the review session for our machine learning study group. The new material is from:
 * Section 15: Kernel SVM
 * Section 16: Naive Bayes

@@ -32,7 +32,7 @@ Participants are tasked with predicting sales transactions for online retail sto
 ### Evaluation
 The competition will evaluate participants objectively using the data rather than subjectively based on human judgement.  Participants are ranked on how well they can predict test data (the ground truth is withheld from the participants).  The metric that we will use for ranking is the root mean squared log error which is standard for this type of problem.
 
-###  Rules
+### Rules
 * Participants can form teams of any size.
 * Private sharing of code or data outside of teams in not permitted. It’s okay to share code if made available to all participants on the forums.
 * Having multiple accounts per participant is not allowed.
@@ -59,7 +59,7 @@ The competition is planned to start on March 30th and to finish on April 30th. W
 
 *Week 0, Friday March 30, 6:00 PM: Start Competition*
 * Description: Kick-off the event. Discuss the competition task, rules, and timeline. Setup complete beginners. Encourage team formation.
-* Venue: Manoa Innovation Center
+* Venue: Presentatin Room at Manoa Innovation Center
 
 *Week 1, Monday April 2, 6:00 PM: Tutorial 1*
 * Description: Present the first tutorial (see Tutorials section in notes).
@@ -86,7 +86,7 @@ top 3 teams to submit their code and prepare their presentations.
 *Week 5b, Friday May 4, 6:00 PM: Winner’s Presentations*
 * Description: Finalize the competition results and present prizes. Explain the choice for
 Best Kernel. Have winners present their solutions (3rd → 2nd → 1st).
-* Venue: iLab at UH Manoa
+* Venue: Presentatin Room at Manoa Innovation Center
 
 We may host a follow-up meetup for any participant interested in presenting their solution or
 kernel.

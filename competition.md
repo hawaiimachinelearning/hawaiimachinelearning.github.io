@@ -5,14 +5,15 @@ permalink: /competition/
 tags:
 ---
 
-## Competition Summay
+## Competition Timeline
+
+
+## Competition Summary
 Test your skills at Hawaii's first Machine Learning Competition. Whether you're a machine learning expert or just want to prevent the robots from taking over, everyone is welcome.
 
 Your challenge is to predict online retail sales from transaction data.   Use any algorithm you like: train your own neural networks, grow your own decision trees, even spawn an AI to solve the problem for you.
 
 If you are new to machine learning, come and join our weekly tutorial sessions to learn the fundamentals of machine learning.   If you are are experienced with machine learning, come and show off your skills.
-
-You can find out more at hawaiimachinelearning.github.io
 
 Join us to advance the field of machine learning in Hawaii.
 

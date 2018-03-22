@@ -59,37 +59,33 @@ The competition is planned to start on March 30th and to finish on April 30th. W
 
 *Week 0, Friday March 30, 6:00 PM: Start Competition*
 * Description: Kick-off the event. Discuss the competition task, rules, and timeline. Setup complete beginners. Encourage team formation.
-* Venue: Presentatin Room at Manoa Innovation Center
+* Venue: Presentation Room at Manoa Innovation Center
 
 *Week 1, Monday April 2, 6:00 PM: Tutorial 1*
-* Description: Present the first tutorial (see Tutorials section in notes).
+* Description: Exploratory Data Analysis (EDA) and Feature Engineering
 * Venue: Ideation Room at the Manoa Innovation Center + Streamed
 
 *Week 2, Monday April 9, 6:00 PM: Tutorial 2*
-* Description: Present the second tutorial (see Tutorials section in notes).
+* Description: Training and Prediction
 * Venue: Ideation Room at the Manoa Innovation Center + Streamed
 
 *Week 3, Monday April 16, 6:00 PM: Tutorial 3*
-* Description: Present the third tutorial (see Tutorials section in notes).
+* Description: Cross Validation and Model Selection
 * Venue: Ideation Room at the Manoa Innovation Center + Streamed
 
 *Week 4, Monday April 23, 6:00 PM: Tutorial 4*
-* Description: Present the fourth tutorial (see Tutorials section in notes).
+* Description: Model Ensembling and Blending
 * Venue: Manoa Innovation Center
 
 *Week 5a, Monday April 30, 2:00 PM: End Competition*
-* Description: End competition on Monday at 2:00 PM HST (Tuesday 00:00 UTC). No
-new submissions will be allowed. Notify participants of the competition’s end. Ask the
-top 3 teams to submit their code and prepare their presentations.
+* Description: End competition on Monday at 2:00 PM HST (Tuesday 00:00 UTC). No new submissions will be allowed. Participants will be notified of the competition’s end. The top 3 teams will be asked to submit their code and prepare their presentations.
 * Venue: None
 
 *Week 5b, Friday May 4, 6:00 PM: Winner’s Presentations*
-* Description: Finalize the competition results and present prizes. Explain the choice for
-Best Kernel. Have winners present their solutions (3rd → 2nd → 1st).
-* Venue: Presentatin Room at Manoa Innovation Center
+* Description: Finalize the competition results. Judges will explain their choice for Best Kernel. Winners will present their solutions (3rd → 2nd → 1st).
+* Venue: Presentation Room at Manoa Innovation Center
 
-We may host a follow-up meetup for any participant interested in presenting their solution or
-kernel.
+We may host a follow-up meetup for any participant interested in presenting their solution or kernel.
 
 
 ## Sponsors

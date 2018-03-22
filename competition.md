@@ -82,9 +82,16 @@ We plan to hold optional tutorials to teach the fundamentals of machine learning
 * Tutorial 3: Cross Validation and Model Selection
 * Tutorial 4: Model Ensembling and Blending
 
+### Kernels
+We plan to have a panel of judges who subjectively evaluate kernel submissions based on the following criteria:
+* Originality – does the kernel contain original material
+* Helpfulness – does the kernel provide valuable information for the task at hand; the number of upvotes is one measure of helpfulness
+* Correctness – are the technical details of the kernel correct, this is the most important aspect of the kernel
+
+The best kernel will be recognized.
 
 ## Sponsors
 
-Special thanks to the HTDC who is generously providing the venue for this event. 
+Special thanks to the HTDC who is generously providing the venue for this event.
 
 HTDC is a dynamic state agency responsible for diversifying Hawaii's economy developing a flourishing technology industry that provides quality, high-paying jobs for Hawaii residents. HTDC aims to accelerate the growth of Hawaii's technology industry by providing capital, building infrastructure and developing talent to foster innovation. HTDC is attached to the Department of Business, Economic Development and Tourism (DBEDT).

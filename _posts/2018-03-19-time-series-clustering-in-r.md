@@ -14,7 +14,7 @@ Identifying patterns in a pool of event data is hard.
 Time-series clustering provides a bag of lenses to change the level of detail
 when viewing and analyzing a collection of event data.
 
-Jonathan Page will present time-series clustering techniques using the
+Jonathan Page presented time-series clustering techniques using the
 `dtwclust` package in R and share his experience applying these techniques to
  mobile banking data in Kenya.
 

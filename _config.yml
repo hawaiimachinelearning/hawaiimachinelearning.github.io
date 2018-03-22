@@ -8,9 +8,10 @@ url:         "https://hawaiimachinelearning.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - upcoming.md
+ - competition.md
  - studygroup.md
  - about.md
-# - resources.md 
+# - resources.md
 # - contact.html
 
 # Google services

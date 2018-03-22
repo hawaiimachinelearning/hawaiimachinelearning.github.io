@@ -84,3 +84,7 @@ We plan to hold optional tutorials to teach the fundamentals of machine learning
 
 
 ## Sponsors
+
+Special thanks to the HTDC who is generously providing the venue for this event. 
+
+HTDC is a dynamic state agency responsible for diversifying Hawaii's economy developing a flourishing technology industry that provides quality, high-paying jobs for Hawaii residents. HTDC aims to accelerate the growth of Hawaii's technology industry by providing capital, building infrastructure and developing talent to foster innovation. HTDC is attached to the Department of Business, Economic Development and Tourism (DBEDT).

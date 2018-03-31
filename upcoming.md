@@ -16,4 +16,4 @@ to impart their intuition and domain expertise into the machine learning pipelin
 In this tutorial we will perform EDA and feature engineering using the competition data.  R and Python code will be provided.
 
 
-_If you are looking to participate in the competition please use the following [link](https://www.kaggle.com/t/85d5f53d2a0244a7bf1283be7381849d).
+_If you are looking to participate in the competition please use the following [link](https://www.kaggle.com/t/85d5f53d2a0244a7bf1283be7381849d)._

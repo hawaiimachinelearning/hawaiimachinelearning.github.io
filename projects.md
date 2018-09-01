@@ -5,6 +5,4 @@ permalink: /projects/
 tags: events
 ---
 
-hi
-
-
+Our members do some cool stuff! Find some of our members' work here!

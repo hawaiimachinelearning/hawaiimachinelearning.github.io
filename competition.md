@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hawaii Machine Learning Challenge
+title: Kaggle Competition
 permalink: /competition/
 tags: events
 ---

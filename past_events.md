@@ -1,8 +1,25 @@
 ---
-layout: page
-title: Past Events
-permalink: /past_events/
-tags: events
+layout: default
 ---
+The first Hawaii Machine Learning Kaggle Competition has been completed! Thanks to everyone that participated! See the links for information on the competition, tutorials, and results! 
 
-The first Hawaii Machine Learning Kaggle Competition has been completed! Thanks to everyone that participated! If you're interested in information on the competition, tutorials, and results, find them here!
+
+{% assign posts_count = paginator.posts | size %}
+
+<div class="home">
+  {% if posts_count > 0 %}
+    <div class="posts">
+      {% for post in paginator.posts %}
+        <div class="post py3">
+          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+          <span class="post-summary">
+            {% if post.summary %}
+              {{ post.summary }}
+            {% else %}
+              {{ post.excerpt }}
+            {% endif %}
+          </span>
+        </div>
+      {% endfor %}
+    </div>

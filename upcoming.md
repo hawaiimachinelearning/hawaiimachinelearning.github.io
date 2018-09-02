@@ -5,7 +5,7 @@ permalink: /upcoming/
 tags: events
 ---
 
-##Googler Laurence Moroney comes to Hawaii! Sept 24, 6-8 PM UH iLab Hawaii Hall, Bldg 37, Honolulu, HI 96822 
+## Googler Laurence Moroney comes to Hawaii! Sept 24, 6-8 PM UH iLab Hawaii Hall, Bldg 37, Honolulu, HI 96822 
 
 [Sign up to go here!](https://www.meetup.com/Hawaii-Machine-Learning-Meetup/events/253389134/)
 

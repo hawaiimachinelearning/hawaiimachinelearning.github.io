@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Upcoming Events
-permalink: /upcoming/
+title: Past Events
+permalink: /past_events/
 tags: events
 ---
 

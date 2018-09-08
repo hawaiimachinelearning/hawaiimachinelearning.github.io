@@ -6,8 +6,6 @@ summary:    This meetup discusses methods for clustering time series.
 categories: event
 ---
 
-### Time Series Clustering in R (3/19/2018)
-
 **Summary**:
 
 Identifying patterns in a pool of event data is hard.

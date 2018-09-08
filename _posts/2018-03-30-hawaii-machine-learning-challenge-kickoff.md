@@ -6,8 +6,6 @@ summary:    This meetup we covered the basics of the competition structure and t
 categories: event
 ---
 
-## Hawaii Machine Learning Challenge Kickoff
-
 This meetup we covered the basics of the competition structure and timeline as well as the main components of the Kaggle platform.
 
 _If you are looking to participate in the competition please use the following [link](https://www.kaggle.com/t/85d5f53d2a0244a7bf1283be7381849d)._

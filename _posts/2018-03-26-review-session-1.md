@@ -6,8 +6,6 @@ summary:    This meetup reviewed data preprocesssing and linear regression conce
 categories: event
 ---
 
-## Review Session 1 - Data Preprocesssing and Linear Regression
-
 This was our first study group review session on Data Preprocessing and Linear Regression (Part 1 and 2 of the [Udemy Machine Learning A-Z course](https://www.udemy.com/machinelearning/)).
 
 ### Summary

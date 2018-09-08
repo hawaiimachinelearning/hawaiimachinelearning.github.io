@@ -6,8 +6,6 @@ summary:    This meetup introduced the fundamentals of machine learning competit
 categories: event
 ---
 
-### Introduction to Competitive Machine Learning (1/29/2018)
-
 **Summary**:
 
 This meetup introduced the fundamentals of machine learning competitions.

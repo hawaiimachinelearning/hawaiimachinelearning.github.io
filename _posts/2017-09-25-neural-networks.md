@@ -6,7 +6,6 @@ summary:    In this meetup we discussed the history and various applications of 
 categories: event
 ---
 
-
 In this meetup we discussed the history and various applications of neural networks.  
 
 <p align="center">

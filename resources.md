@@ -5,6 +5,8 @@ permalink: /resources/
 tags: resources
 ---
 
+## Resources by Type
+
 ### Bookmarks
 * [The R Graph Gallery](http://www.r-graph-gallery.com/) A collection of graphics created in R.  
 * [The Python Graph Gallery](https://python-graph-gallery.com/) A collection of graphics created in Python.  
@@ -20,3 +22,9 @@ tags: resources
 ### Online Courses 
 * [Machine Learning Courses Online](http://fastml.com/machine-learning-courses-online/) A curated list of online machine learning courses.
 * [Awesome Machine Learning Courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md) A list of free or paid online courses on machine learning, statistics, data-mining, etc.
+
+## Resources by Subject
+
+### Mathematics
+* [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) A free course by Stanford on how to think mathematically.
+* [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) Siraj Raval's playlist of mathematical concepts in machine learning.

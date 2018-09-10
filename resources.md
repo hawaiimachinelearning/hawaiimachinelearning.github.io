@@ -28,3 +28,7 @@ tags: resources
 #### Mathematics
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) A free course by Stanford on how to think mathematically.
 * [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) Siraj Raval's playlist of mathematical concepts in machine learning.
+
+#### Research Papers
+* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) A more efficient platform for browsing/searching research papers posted on Arxiv.
+* [Machine Learning Subreddit](https://www.reddit.com/r/MachineLearning/) Research paper discussions are common on this subreddit.

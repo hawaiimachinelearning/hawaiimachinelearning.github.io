@@ -1,0 +1,10 @@
+theta <- seq(0, 2*pi, 0.001)
+x <- cos(theta)
+y <- sin(theta)
+
+png('tmp.png', width = 520, height = 520)
+par(pty="s", mar=c(0,0,0,0), bg=NA)
+plot(0, type='n', xlab="", ylab="", xlim=c(-1,1), ylim=c(-1,1),axes=F, ann=F)
+polygon(x, y, col='#333333')
+text(0,0, 'H', col='yellow', cex=25)
+dev.off()

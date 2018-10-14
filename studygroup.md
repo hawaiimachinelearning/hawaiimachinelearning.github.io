@@ -29,18 +29,15 @@ At our study sessions we discuss questions/additional topics related to the cour
 
 #### Deep Learning Course 1 (Deep Learning and Neural Networks)
 
-* [Week 1, 2 Introduction to Deep Learning and Neural Networks Basics](https://docs.google.com/document/d/18hBHX9wqF2wzzZEDhqsauxlRSPJqvnIG_lPYRN4uTpg/edit)
+* [Week 1,2 Introduction to Deep Learning and Neural Networks Basics](https://docs.google.com/document/d/18hBHX9wqF2wzzZEDhqsauxlRSPJqvnIG_lPYRN4uTpg/edit)
 * [Week 3 Shallow Neural Networks](https://docs.google.com/document/d/143XtpfWn7x9-ei60LS8E_KjQAL3oJav7VXm0p3cIEbE/edit)
 
 
 ### Where and when do we meet?
 We meet every Saturday at 10:00 AM on the second floor of the [Pacific Ocean Science and Technology Building](https://www.google.com/maps/place/21%C2%B017'51.0%22N+157%C2%B048'59.3%22W/@21.297506,-157.81648,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d21.297506!4d-157.81648) (it's the big blue building) at UH Manoa.  There is (free) Street Parking on Dole Street or University Ave and metered parking on campus or parking structure.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1105.1735809764318!2d-157.8164862034785!3d21.297339998498003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjHCsDE3JzUxLjAiTiAxNTfCsDQ4JzU5LjMiVw!5e0!3m2!1sen!2sus!4v1539506519484" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
-<div style="text-align: center;">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1105.1735809764318!2d-157.8164862034785!3d21.297339998498003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjHCsDE3JzUxLjAiTiAxNTfCsDQ4JzU5LjMiVw!5e0!3m2!1sen!2sus!4v1539506519484" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
 
 
 

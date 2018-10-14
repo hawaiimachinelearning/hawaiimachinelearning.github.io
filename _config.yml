@@ -9,10 +9,10 @@ date_format: "%b %-d, %Y"
 header_pages:
  - upcoming.md
  - past_events.md
- - competition.md
  - studygroup.md
  - about.md
- - projects.md
+#  - competition.md 
+#  - projects.md
  - resources.md
 # - contact.html
 

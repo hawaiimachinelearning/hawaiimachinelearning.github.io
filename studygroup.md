@@ -23,16 +23,28 @@ At our study sessions we discuss questions/additional topics related to the cour
 
 #### Statistical Learning 
 
-* [Ch 1,2 Introduction and Overview of Statistical Learning](https://docs.google.com/document/d/1h2DBGZ3HPGm1d3IUNDehQdhV1JsMMSZH9z9pHJ51G9k/edit)
-* [Ch 3 Linear Regression](https://docs.google.com/document/d/1y7ZlVihfq5Dj7N2TjKs6U3fv1LS0CjySnzccPQhkF_A/edit)
-* [Ch 4 Classification](https://docs.google.com/document/d/1xhJuqueyDrVWKhWBzzix_BzUu8ZPNuMHiQq6ug1QNaA/edit)
+* [Ch 1,2 Introduction and Overview of Statistical Learning](https://docs.google.com/document/d/1h2DBGZ3HPGm1d3IUNDehQdhV1JsMMSZH9z9pHJ51G9k/edit?usp=sharing)
+* [Ch 3 Linear Regression](https://docs.google.com/document/d/1y7ZlVihfq5Dj7N2TjKs6U3fv1LS0CjySnzccPQhkF_A/edit?usp=sharing)
+* [Ch 4 Classification](https://docs.google.com/document/d/1xhJuqueyDrVWKhWBzzix_BzUu8ZPNuMHiQq6ug1QNaA/edit?usp=sharing)
+* [Ch 5 Resampling Methods](https://docs.google.com/document/d/13eie0dariv5bKjFVOzMYnnIsB5C_OCmYGKAwMVMSt3k/edit?usp=sharing)
+* Ch 6 Linear Model Selection and Regularization
+* Ch 7 Moving Beyond Linearity
+* Ch 8 Tree-Based Methods
+* Ch 9 Support Vector Machines
+* Ch 10 Unsupervised Learning
+
 
 
 #### Deep Learning Course 1 (Deep Learning and Neural Networks)
 
-* [Week 1,2 Introduction to Deep Learning and Neural Networks Basics](https://docs.google.com/document/d/18hBHX9wqF2wzzZEDhqsauxlRSPJqvnIG_lPYRN4uTpg/edit)
-* [Week 3 Shallow Neural Networks](https://docs.google.com/document/d/143XtpfWn7x9-ei60LS8E_KjQAL3oJav7VXm0p3cIEbE/edit)
-* [Week 4 Deep Neural Networks](https://docs.google.com/document/d/1ARJ5ajXz5tQ41M_vs_FbmUNu14eRfncf9GSyx1qQsXE/edit)
+* [Week 1,2 Introduction to Deep Learning and Neural Networks Basics](https://docs.google.com/document/d/18hBHX9wqF2wzzZEDhqsauxlRSPJqvnIG_lPYRN4uTpg/edit?usp=sharing)
+* [Week 3 Shallow Neural Networks](https://docs.google.com/document/d/143XtpfWn7x9-ei60LS8E_KjQAL3oJav7VXm0p3cIEbE/edit?usp=sharing)
+* [Week 4 Deep Neural Networks](https://docs.google.com/document/d/1ARJ5ajXz5tQ41M_vs_FbmUNu14eRfncf9GSyx1qQsXE/edit?usp=sharing)
+
+#### Deep Learning Course 2 (Improving Deep Neural Networks)
+* Week 1 Practical aspects of Deep Learning
+* Week 2 Optimization algorithms
+* Week 3 Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 
 ### Where and when do we meet?

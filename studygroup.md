@@ -27,6 +27,7 @@ At our study sessions we discuss questions/additional topics related to the cour
 * [Ch 3 Linear Regression](https://docs.google.com/document/d/1y7ZlVihfq5Dj7N2TjKs6U3fv1LS0CjySnzccPQhkF_A/edit?usp=sharing)
 * [Ch 4 Classification](https://docs.google.com/document/d/1xhJuqueyDrVWKhWBzzix_BzUu8ZPNuMHiQq6ug1QNaA/edit?usp=sharing)
 * [Ch 5 Resampling Methods](https://docs.google.com/document/d/13eie0dariv5bKjFVOzMYnnIsB5C_OCmYGKAwMVMSt3k/edit?usp=sharing)
+* [Ch 6 Linear Model Selection and Regularization](https://docs.google.com/document/d/1lU58PJhmHsZNcL4WKI_0bf02uqpbBDceIMX0lGYZYcs/edit?usp=sharing)
 
 
 #### Deep Learning Course 1 (Deep Learning and Neural Networks)

@@ -29,6 +29,8 @@ At our study sessions we discuss questions/additional topics related to the cour
 * [Ch 5 Resampling Methods](https://docs.google.com/document/d/13eie0dariv5bKjFVOzMYnnIsB5C_OCmYGKAwMVMSt3k/edit?usp=sharing)
 * [Ch 6 Model Selection and Regularization](https://docs.google.com/document/d/1lU58PJhmHsZNcL4WKI_0bf02uqpbBDceIMX0lGYZYcs/edit?usp=sharing)
 
+* [Ch 7 Moving Beyond Linearity](https://docs.google.com/document/d/1P7nFJQxzXUFQP6b405FRDB3TGwyStTZDKWoBSIf6SLI/edit?usp=sharing)
+
 
 #### Deep Learning Course 1 (Deep Learning and Neural Networks)
 
@@ -38,6 +40,8 @@ At our study sessions we discuss questions/additional topics related to the cour
 
 #### Deep Learning Course 2 (Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization)
 * [Week 1 Practical aspects of Deep Learning](https://docs.google.com/document/d/1vZk127QaOyVT-lUgbhA8R_pgcx-IMk5ddQ_BquFuDb4/edit?usp=sharing)
+
+* [Week 2 Optimization Algorithms](https://docs.google.com/document/d/1Bc8jYZUCaNUcsqwiDO-V6mmVgxVdkNoP4ZAnC9FqKmA/edit?usp=sharing)
 
 
 ### Where and when do we meet?
